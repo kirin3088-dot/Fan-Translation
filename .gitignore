@@ -1,0 +1,31 @@
+# 编译产物
+SnapTranslate
+SnapTranslate.app/
+*.app/
+build/
+*.o
+
+# 图标中间产物
+icon.iconset/
+render_icon
+icon_1024.png
+
+# 签名证书与私钥（切勿提交）
+certs/
+
+# 开发期测试脚本与临时文件
+dicttest*
+gentest*
+ocrtest*
+test_ocr.swift
+test_translate.swift
+gen_test.swift
+test*.png
+test*.txt
+
+# macOS 系统文件
+.DS_Store
+*.swp
+
+# 日志
+*.log
