@@ -1,4 +1,4 @@
-# Fan Translation
+# 扇形翻译 · Fan Translation
 
 > 一个极简的 macOS 菜单栏截图翻译工具 —— 框选屏幕上的英文，立刻得到中文翻译、词典释义与真人级发音。
 
@@ -6,6 +6,8 @@
 ![Language](https://img.shields.io/badge/Swift-5.9-orange)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Offline](https://img.shields.io/badge/offline-OCR%20%2B%20词典%20%2B%20发音-brightgreen)
+
+**话题**：`macOS` `Swift` `截图翻译` `OCR` `词典` `离线优先` `菜单栏工具`
 
 ## 📸 效果预览
 
@@ -59,7 +61,7 @@ open SnapTranslate.app
 | 📖 | 在 Mac 自带「词典」App 中打开完整词条 |
 | `Esc` / 点击别处 | 关闭结果面板 |
 
-菜单栏图标（Finder 图标）里还可以：
+菜单栏图标（Fan 图标）里还可以：
 
 - **修改快捷键**（预设 6 种，也支持自定义录制）
 - **切换源语言 / 目标语言**（10 种语言）
@@ -159,6 +161,12 @@ tccutil reset ScreenCapture com.local.snaptranslate
 - 词典数据源：[**ECDICT**](https://github.com/skywind3000/ECDICT) —— 开源英汉词典数据库（77 万词条）
 - 翻译能力：Apple 系统 **Translation** framework 与 **Vision** OCR
 - 发音引擎：macOS 系统内置语音
+
+## 👤 作者
+
+[@kirin3088-dot](https://github.com/kirin3088-dot)
+
+欢迎提交 Issue 和 Pull Request。如果这个项目帮到了你，点个 ⭐ 就是最大的鼓励。
 
 ## 📄 许可证
 
