@@ -1,4 +1,4 @@
-# 扇形翻译 · Fan Translation
+# Fan Translation
 
 > 一个极简的 macOS 菜单栏截图翻译工具 —— 框选屏幕上的英文，立刻得到中文翻译、词典释义与真人级发音。
 
